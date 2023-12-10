@@ -1,0 +1,33 @@
+/* Randomly Generated CSS */
+
+/* Set body background color to a random color */
+body {
+  background-color: #RANDOM_COLOR;
+}
+
+/* Add random padding to all paragraphs */
+p {
+  padding: RANDOM_PX;
+}
+
+/* Apply random font family to headers */
+h1, h2, h3 {
+  font-family: RANDOM_FONT;
+}
+
+/* Set a random border for div elements */
+div {
+  border: RANDOM_PX solid #RANDOM_COLOR;
+  border-radius: RANDOM_PX;
+}
+
+/* Apply a random margin to images */
+img {
+  margin: RANDOM_PX;
+}
+
+/* Set random opacity for links */
+a {
+  opacity: RANDOM_OPACITY;
+}
+
